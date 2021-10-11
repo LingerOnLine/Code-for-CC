@@ -1,0 +1,17 @@
+本程序名为 INT256 即 256 位二进制整数（包括无有符号视角），使用前可尝试添加三个文件，分别为两个 .c 和一个 .h 的文件，预测在
+ X64 windows 运行环境可达接近最佳性能（当然喽，你也可以稍微修改，去 linux 的 64 位系统中运行看看效果），然后整体编译，
+从 test test.c 中 的 main  函数开始执行，看看是否很优美和很舒适，如果你想把它当成一个工具使用，可去掉  test test.c 然后各种调用，
+See？
+
+再重复一次玩笑：本程序为 INT256 , 可完善，可优美，可降级使用，也可升级使用，更可无止境进化，如若参透本程序，汝将习得宇宙终级奥密，最终**（这是一个很小很小很小的秘密）. 
+A joy repeat： This program is named INT256 , it can improve, and grave, and return or update, and even to the endless evolution,
+if you see the all meanings, you will get the biggest secret of the universe...
+
+
+
+										
+
+
+
+
+									如有不明之处可尝试联系编者.     Email ：lingeronline@126.com
